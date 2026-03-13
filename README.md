@@ -23,6 +23,10 @@ How to Run the Project
 2. Open the project folder
 3. Open `index.html` in your web browser
 
+Screenshot
+
+![Calculator Screenshot](web-calculator.png)
+
 Author
 
 Harikrishna A
